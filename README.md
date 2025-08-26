@@ -90,7 +90,7 @@ The research examines the effectiveness of traditional approaches (HMMs, n-grams
 
 ### Contribution
 
-- Author: Dawson Damuth  
+- Team Members: Dawson Damuth and Daniel Viola
 
 - My Role:  
 
