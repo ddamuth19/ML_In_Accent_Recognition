@@ -102,7 +102,7 @@ The research examines the effectiveness of traditional approaches (HMMs, n-grams
 
 ---
 
-### Reference
+### References
 
 - Graves, A., Mohamed, A., & Hinton, G. (2013). Speech Recognition with Deep Recurrent Neural Networks. ICASSP.  
 
